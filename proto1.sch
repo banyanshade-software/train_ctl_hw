@@ -14,9 +14,9 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 4075 13500 1600 675 
-U 5F9581DB
-F0 "CantonBoard" 50
-F1 "canton.sch" 50
+S 3925 6650 500  150 
+U 5FAD8BC4
+F0 "Sheet5FAD8BC3" 50
+F1 "canton2.sch" 50
 $EndSheet
 $EndSCHEMATC
