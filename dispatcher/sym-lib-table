@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name bluepill)(type Legacy)(uri /Users/danielbraun/devel/train/hw/ext_lib/blue-pill-kicad/bp.lib)(options "")(descr ""))
+  (lib (name dbn)(type Legacy)(uri /Users/danielbraun/devel/train/hw/DBN.lib)(options "")(descr ""))
+  (lib (name VadimNsk)(type Legacy)(uri /Users/danielbraun/devel/train/hw/ext_lib/KiCAD_libraries/Modules.lib)(options "")(descr ""))
+  (lib (name D3_Board)(type Legacy)(uri /Users/danielbraun/devel/train/hw/ext_lib/i3e-d3_Electronics/D3_Board/D3_Board.lib)(options "")(descr ""))
+  (lib (name jwm_kicad_symbols_misc)(type Legacy)(uri /Users/danielbraun/devel/train/hw/ext_lib/jwm_kicad_symbols_misc/jwm_kicad_symbols_misc.lib)(options "")(descr ""))
+)
