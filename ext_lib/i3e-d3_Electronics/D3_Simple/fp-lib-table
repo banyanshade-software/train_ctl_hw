@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name D3_Board)(type KiCad)(uri /home/felipe/I3E-D3/i3e-d3_Electronics/D3_Board/D3_Board.pretty)(options "")(descr ""))
+  (lib (name BluePill_breakouts)(type KiCad)(uri ${KIPRJMOD}/BluePill_breakouts.pretty)(options "")(descr ""))
+)

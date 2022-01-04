@@ -1,0 +1,116 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G04
+D Single NOT Gate, Low-Voltage CMOS
+K Single Gate NOT LVC CMOS
+F http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf
+$ENDCMP
+#
+$CMP 74LVC2G14
+D Dual NOT Gate Schmitt Triggered, Low-Voltage CMOS
+K Dual Gate NOT Schmitt LVC CMOS
+F https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf
+$ENDCMP
+#
+$CMP AUB-33
+D Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve
+K audio jack receptacle mono phone headphone TS connector
+F ~
+$ENDCMP
+#
+$CMP B0505S
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 5V output, SIP
+K DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP BH1750FVI-TR
+D Ambient Light Sensor,16bit,I2C,WSOF6I ROHM BH1750FVI-TR Ambient Light Sensor Unit Surface Mount
+F https://componentsearchengine.com/Datasheets/2/BH1750FVI-TR.pdf
+$ENDCMP
+#
+$CMP EC11-1098
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP HFD2_005-S-L2-D
+F https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+$ENDCMP
+#
+$CMP LM66100DCKR
+D +/-6-V, Low IQ ideal diode with input polarity protection
+F http://www.ti.com/lit/gpn/LM66100
+$ENDCMP
+#
+$CMP LM66100DCKT
+D Hot Swap Voltage Controllers A 595-LM66100DCKR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2flm66100
+$ENDCMP
+#
+$CMP MEE3S0509SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S0512SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S0515SC
+D 3W, 1000 VDC isolated DC/DC converter, 5V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1205SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 5V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1209SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 9V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1212SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 12V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MEE3S1215SC
+D 3W, 1000 VDC isolated DC/DC converter, 12V input, 15V output, SIP
+K murata DC/DC isolated converter
+F https://power.murata.com/pub/data/power/ncl/kdc_mee3.pdf
+$ENDCMP
+#
+$CMP MS-107
+D Audio Jack, 2 Poles (Mono / TS)
+K audio jack receptacle mono phone headphone TS connector
+F ~
+$ENDCMP
+#
+$CMP PCF8563TS_5,118
+D NXP - PCF8563TS/5,118 - REAL TIME CLOCK, 5.5V, I2C, TSSOP-8
+F http://www.nxp.com/docs/en/data-sheet/PCF8563.pdf
+$ENDCMP
+#
+$CMP PLM66100DCKR
+D +/-6-V, Low IQ ideal diode with input polarity protection
+F http://www.ti.com/lit/gpn/LM66100
+$ENDCMP
+#
+$CMP КС168А
+D 6.8В(10мА) (6.12В(3мА)-7.48В(45мА))
+K zener diode
+F https://static.chipdip.ru/lib/272/DOC000272838.pdf
+$ENDCMP
+#
+#End Doc Library

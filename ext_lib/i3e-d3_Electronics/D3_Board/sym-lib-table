@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name D3_Board)(type Legacy)(uri ${KIPRJMOD}/D3_Board-rescue.lib)(options "")(descr ""))
+  (lib (name D3_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/D3_Board-rescue.lib)(options "")(descr ""))
+  (lib (name D3_Board-cache)(type Legacy)(uri ${KIPRJMOD}/D3_Board-cache.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Modules)(type KiCad)(uri /Users/danielbraun/devel/train/hw/ext_lib/KiCAD_libraries/Modules.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name D3_Face)(type Legacy)(uri ${KIPRJMOD}/D3_Face.lib)(options "")(descr ""))
+  (lib (name D3_Face-rescue)(type Legacy)(uri ${KIPRJMOD}/D3_Face-rescue.lib)(options "")(descr ""))
+)

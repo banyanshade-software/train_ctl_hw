@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LM2596)(type KiCad)(uri /home/felipe/I3E-D3/i3e-d3_Electronics/D3_Board/DCDC_Stepup_SX1308/Footprints/lm2596_module.pretty)(options "")(descr ""))
+  (lib (name BLUEPILL)(type KiCad)(uri /home/felipe/I3E-D3/i3e-d3_Electronics/D3_Board/bluepill-expansion-master/modules/BluePill_breakouts.pretty)(options "")(descr ""))
+  (lib (name D3_Board)(type KiCad)(uri ${KIPRJMOD}/D3_Board.pretty)(options "")(descr ""))
+)

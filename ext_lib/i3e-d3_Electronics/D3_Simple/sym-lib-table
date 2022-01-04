@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name D3_Board)(type Legacy)(uri ${KIPRJMOD}/D3_Board.lib)(options "")(descr ""))
+)
