@@ -1802,8 +1802,8 @@
   (symbol (lib_id "Device:R") (at 45.72 170.815 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 07df0eaa-99e0-41ed-af52-7fb22b9b0201)
-    (property "Reference" "10k1" (id 0) (at 50.165 168.275 90))
-    (property "Value" "R13" (id 1) (at 45.085 171.45 90))
+    (property "Reference" "R13" (id 0) (at 50.165 168.275 90))
+    (property "Value" "10k" (id 1) (at 45.085 171.45 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 45.72 172.593 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2659,9 +2659,6 @@
     (path "/f4ea7bf9-3a14-4ba6-9b05-db10adbb3b5a"
       (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
     )
-    (path "/07df0eaa-99e0-41ed-af52-7fb22b9b0201"
-      (reference "10k1") (unit 1) (value "R13") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
-    )
     (path "/f9efb531-936d-4192-a4d7-9aaeec9d7799"
       (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm")
     )
@@ -2751,6 +2748,9 @@
     )
     (path "/127c0f4e-ee58-4946-bbfb-16e68bf1cb40"
       (reference "R12") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+    )
+    (path "/07df0eaa-99e0-41ed-af52-7fb22b9b0201"
+      (reference "R13") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/b229243d-11d5-4a2d-a522-e20d99107088"
       (reference "R14") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
