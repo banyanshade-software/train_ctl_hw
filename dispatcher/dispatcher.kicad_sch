@@ -4040,7 +4040,7 @@
   (symbol (lib_id "Connector:Conn_01x05_Female") (at 269.24 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5cb45bca-ea3d-4d76-b8ba-af00cf7d92dd)
-    (property "Reference" "J_CAN" (id 0) (at 271.145 196.8499 0)
+    (property "Reference" "J_CAN1" (id 0) (at 271.145 196.8499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x05_Female" (id 1) (at 271.145 199.3899 0)
@@ -4620,7 +4620,7 @@
       (reference "JP1") (unit 1) (value "Jumper") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/5cb45bca-ea3d-4d76-b8ba-af00cf7d92dd"
-      (reference "J_CAN") (unit 1) (value "Conn_01x05_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+      (reference "J_CAN1") (unit 1) (value "Conn_01x05_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/c359a0e9-b7f6-4a78-a5f8-2dae089c3c3f"
       (reference "J_EXT1") (unit 1) (value "Conn_01x08_Female") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
