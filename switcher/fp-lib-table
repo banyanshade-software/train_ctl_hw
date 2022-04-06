@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Modules)(type KiCad)(uri /Users/danielbraun/devel/train/hw/ext_lib/KiCAD_libraries/Modules.pretty)(options "")(descr ""))
+  (lib (name D3_Board)(type KiCad)(uri /Users/danielbraun/devel/train/hw/ext_lib/i3e-d3_Electronics/D3_Board/D3_Board.pretty)(options "")(descr ""))
+  (lib (name BluePill_breakouts)(type KiCad)(uri /Users/danielbraun/devel/train/hw/ext_lib/i3e-d3_Electronics/D3_Board/bluepill-expansion-master/modules/BluePill_breakouts.pretty)(options "")(descr ""))
+  (lib (name jwm_kicad_footprints_misc)(type KiCad)(uri /Users/danielbraun/devel/train/hw/ext_lib/jwm_kicad_footprints_misc.pretty)(options "")(descr ""))
+)
