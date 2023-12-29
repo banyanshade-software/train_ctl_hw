@@ -482,6 +482,9 @@
     (property "STANDARD" "" (at 5.08 -8.89 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
+    (property "ki_locked" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
     (symbol "NUCLEO-G491RE_SER_0_1"
       (rectangle (start 80.01 71.12) (end 80.01 71.12)
         (stroke (width 0) (type default))
